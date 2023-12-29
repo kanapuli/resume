@@ -1,3 +1,3 @@
 ## Description
 
-I have become so wierd developer to build my Resume using code
+I am so weird developer and I build my Resume using code. Feel free to use my Latex template to build your resume 😊
